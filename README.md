@@ -3,9 +3,9 @@
 Neste vídeo, estou demonstrando um sensor de som funcionando com o ESP32 (38 pinos). Ele detecta sons no ambiente, como palmas 👏, e ativa um LED, simulando o acionamento de uma luz. O código usado é bem simples e tem algumas limitações, mas a ideia aqui é apenas apresentar o sensor na prática!
 
 📜 Código usado no vídeo:
-[link do código]
+https://github.com/Makkers-IoT/Sensor-de-som
 🛒 Itens no carrinho:
-[link do carrinho]
+https://www.makkers.com.br/r/uvatjx
 🌐 Conheça nossa loja: 
 https://www.makkers.com.br/
 
