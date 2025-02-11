@@ -4,8 +4,10 @@ Neste vídeo, estou demonstrando um sensor de som funcionando com o ESP32 (38 pi
 
 📜 Código usado no vídeo:
 https://github.com/Makkers-IoT/Sensor-de-som
+
 🛒 Itens no carrinho:
 https://www.makkers.com.br/r/uvatjx
+
 🌐 Conheça nossa loja: 
 https://www.makkers.com.br/
 
